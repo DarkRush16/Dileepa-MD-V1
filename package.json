@@ -1,5 +1,5 @@
 { 
-    "name": "PRINCE",
+    "name": "MARAYA",
     "version": "0.0.1",
     "description": "Customizable WhatsApp Bot",
     "main": "index.js",
@@ -25,9 +25,9 @@
         "MD",
         "baileys-md"
     ],
-    "homepage": "https://github.com/avishka33/-PRINCE-AVI-MD-",
+    "homepage": "https://github.com/DileepaTech/Dileepa-MD-V1",
     "author": {
-        "name": "𝘼𝙑𝙄"
+        "name": "MARAYA"
     },
     "repository": {
         "type": "git",

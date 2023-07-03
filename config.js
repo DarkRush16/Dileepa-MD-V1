@@ -9,13 +9,13 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['0772836332', '𝘼𝙑𝙄', true],
-  ['0772836332', '𝘼𝙑𝙄', true], 
+  ['0705674697', '👾*Maraya-MD*👾', true],
+  ['0710995750', '👾*Maraya-MD*👾', true], 
   [''] 
 ] //Number of owners
 
-global.mods = ['94772836332','94772836332'] 
-global.prems = ['94772836332', '94772836332', '94772836332']
+global.mods = ['94705674697','94705674697'] 
+global.prems = ['94705674697', '94705674697', '94705674697']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -49,19 +49,19 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = '💖𝙋𝙍𝙄𝙉𝘾𝙀 𝘼𝙑𝙄 𝙈𝘿💖'
+global.botname = '👾*Maraya-MD*👾'
 global.premium = 'true'
-global.packname = '💖𝙋𝙍𝙄𝙉𝘾𝙀 𝘼𝙑𝙄 𝙈𝘿💖' 
-global.author = '💖𝙋𝙍𝙄𝙉𝘾𝙀 𝘼𝙑𝙄 𝙈𝘿💖' 
+global.packname = '👾*Maraya-MD*👾' 
+global.author = '👾*Maraya-MD*👾' 
 global.igfg = ' 𝘼𝙑𝙄' 
-global.dygp = 'https://chat.whatsapp.com/JyyF8F0Au1K9P6uaYLI6iI'
-global.fgsc = 'https://chat.whatsapp.com/JyyF8F0Au1K9P6uaYLI6iI' 
-global.fgyt = 'https://chat.whatsapp.com/JyyF8F0Au1K9P6uaYLI6iI'
-global.fgpyp = 'https://chat.whatsapp.com/JyyF8F0Au1K9P6uaYLI6iI'
-global.fglog = 'https://avatars.githubusercontent.com/u/134716496?v=4.jpg' 
+global.dygp = 'https://chat.whatsapp.com/EpengNAXffJ60XaNww1MDJ'
+global.fgsc = 'https://chat.whatsapp.com/EpengNAXffJ60XaNww1MDJ'
+global.fgyt = 'https://chat.whatsapp.com/EpengNAXffJ60XaNww1MDJ'
+global.fgpyp = 'https://chat.whatsapp.com/EpengNAXffJ60XaNww1MDJ'
+global.fglog = 'https://telegra.ph/file/0628bc98ae8035f00f429.jpg' 
 
 
-global.wait = '*💝 _ටිකක් ඉන්න Uploading by 💖Prince avi md 💖...*'
+global.wait = '* _ටිකක් ඉන්න Uploading by 👾*Maraya-MD*👾...*'
 global.rwait = '💫'
 global.dmoji = '🎠'
 global.done = '✅'

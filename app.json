@@ -1,9 +1,9 @@
 {
-  "name": "💖Prince avi md 💖",
+  "name": "👾*Maraya-MD*👾",
   "description": "Customizable WhatsApp Bot",
-  "repository": "https://github.com/avishka33/-PRINCE-AVI-MD-",
-  "logo": "https://avatars.githubusercontent.com/u/134716496?v=4.jpg",
-  "keywords": ["bot", "whatsapp", "whatsapp-bot", "💖Prince avi md 💖", "GURU-bot-md", "GURU-bot"],
+  "repository": "https://github.com/DileepaTech/Dileepa-MD-V1",
+  "logo": "https://telegra.ph/file/0628bc98ae8035f00f429.jpg",
+  "keywords": ["bot", "whatsapp", "whatsapp-bot", "👾*Maraya-MD*👾", "GURU-bot-md", "GURU-bot"],
   "buildpacks": [
     {
       "url": "heroku/nodejs"

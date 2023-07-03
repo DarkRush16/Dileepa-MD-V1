@@ -3,13 +3,13 @@
 </p> 
  
 <p align="center"> 
-<u> 💖 PRINE-AVI-MD💖</u>
+<u>👾*Maraya-MD*👾</u>
 </p>
 <p align="center">
-<img src="https://avatars.githubusercontent.com/u/132133420?v=4.jpg" width="300" height="300"/>
+<img src="https://telegra.ph/file/0628bc98ae8035f00f429.jpg" width="300" height="300"/>
 </p>
 <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=AVI+NET+HUNTER" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=KING+MARAYA+MD" alt="">
 </p>
 <p align="center">
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-AVI-red.svg?style=for-the-badge&logo=github"></a>
@@ -26,13 +26,13 @@
 
 # 
 
-### Please Give One Star ✨ & [follow for me notify my updates 💗] (https://github.com/avishka33)
+### Please Give One Star ✨ & [follow for me notify my updates ] (https://github.com/DileepaTech)
 
 <b>Version -->1</b>
 # 
 
 
-  💖Prince avi md 💖 whatsapp bot is an easy to use whatsapp robot.   | AVI whatsapp bot යනු ඔබට පහසුවෙන් බාවිතකර හැකි whatsapp robo වරයෙකි.
+  👾*Maraya-MD*👾 whatsapp bot is an easy to use whatsapp robot.   | MARAYA whatsapp bot යනු ඔබට පහසුවෙන් බාවිතකර හැකි whatsapp robo වරයෙකි.
 
 # 
 * 𝗙𝗢𝗥𝗞 𝗡𝗢𝗪
@@ -69,7 +69,7 @@
 [`Deploy on Uffizzi`](https://www.uffizzi.com/)
 </details>
 
-## [`WATCH YOUTUBE VIDEOS`](https://youtube.com/@Avi_NetHunter)
+## [`WATCH YOUTUBE VIDEOS`](https://youtube.com/@)
  
   
 
@@ -84,7 +84,7 @@
 3. Uplode avi.data.json file to sessions folder
 4. Make acount on your host
 5. Connect Your Repository to your web host site
-6. [Watch Videos](https://youtube.com/@Avi_NetHunter)
+6. [Watch Videos](https://youtube.com/@)
 # 
 # 
 ### [ DEPLY ON TERMUX ]
@@ -127,20 +127,18 @@ npm start
 <summary>🌐 Support For Deploy </summary>
 <p>
 </details>
-THANAKS FOR USNING 💖Prince avi md 💖
+THANAKS FOR USNING👾*Maraya-MD*👾
 
-* [🧑‍💻 Join AVI Support Group 🧑‍💻](https://chat.whatsapp.com/HgmlgexUpS8GwFGpYMbznt)
-
-* [🦄 Join Public Group 🦄](https://chat.whatsapp.com/HgmlgexUpS8GwFGpYMbznt)
+* [🧑‍💻 Join Support Group 🧑‍💻](https://chat.whatsapp.com/EpengNAXffJ60XaNww1MDJ)
 
      
        ⚠️ We are not responsible for any inconvenience caused by your mistakes!   | ඔබගේ අත්වැරදීම් නිසා සිදුවන අපහසුතාවයන් සඳහා අප වගකිවයනු නොලැබේ !
 
   
   #### ```TOTAL PROFILE VIEWS 🧚```
-![Visitor Count](https://github.com/avishka33)
+![Visitor Count](https://github.com/DileepaTech)
 
 <h1>💗</h1> 
 <b>Thanks For</b> -
 
- 💖AVISHKA SHAVINDA 💖
+
